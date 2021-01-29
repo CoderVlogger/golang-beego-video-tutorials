@@ -14,6 +14,5 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-project/project
-step1/main
-step2/step2
+# Ignore generated main executable file
+main
