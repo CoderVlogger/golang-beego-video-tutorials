@@ -10,5 +10,5 @@ Check [branches](https://github.com/CoderVlogger/golang-beego-video-tutorials/br
 
 Current tutorials:
 
-- [Step 1: Quick start with simple example](https://kananrahimov.com/post/build-an-app-with-go-beego-controller-router-part-1/)
+- [Step 1: Quick start with simple example using controller and router](https://kananrahimov.com/post/build-an-app-with-go-beego-controller-router-part-1/)
 - [Step 2: Get started by using `bee` cli tool](https://kananrahimov.com/post/golang-beego-tutorial-start-with-beego-and-cli-part1/)
