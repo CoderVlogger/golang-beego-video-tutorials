@@ -1,20 +1,14 @@
-# golang-beego-video-tutorials
+# Golang Beego Video Tutorials
 
-Golang Beego Tutorials. Video Documentation.
+Hello, all! Welcome to my Golang Beego video tutorial series.
 
-### How to run from Repl.it
+## How to use?
 
-Use the following command to run it from withing Repl.it. Update the content of `.replit` file to this:
+At the end of each video tutorial, you can find embedded Repl.it projects. By using it, you can run the project on your browser and play with the source code.
 
-    language = "bash"
-    run = ""
+Check [branches](https://github.com/CoderVlogger/golang-beego-video-tutorials/branches/all) for the source code of each step.
 
-Change `stepN` to the corresponding folder name. For example, if you want to run source code for **step2** use the following:
+Current tutorials:
 
-    language = "bash"
-    run = "cd step2 && go run ."
-
-## Structure
-
-### Step 1: Quick start with simple example
-### Step 2: Get started by using `bee` cli tool
+- [Step 1: Quick start with simple example](https://kananrahimov.com/post/build-an-app-with-go-beego-controller-router-part-1/)
+- [Step 2: Get started by using `bee` cli tool](https://kananrahimov.com/post/golang-beego-tutorial-start-with-beego-and-cli-part1/)
